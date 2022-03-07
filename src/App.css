@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+.container {
+  max-width: 60% !important;/*Set your own width %; */
+
+}
+.Navbar{
+  margin-bottom: 150px !important;
+}
+
+.logo{
+height: 50px;
+pointer-events: none;
+margin-top: -10px;
+margin-bottom: -5px;
+}
+.pagetitle{
+  color: rgb(21, 122, 1);
+}
+
